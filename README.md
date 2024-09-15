@@ -53,8 +53,8 @@ cd Files
 2. *Install the dependencies:*
 
    Before proceeding, in PowerShell, type:
-   bash
-  ``` Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
+   ```bash
+   Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
 Then, run the following commands:
 bash
 ```
