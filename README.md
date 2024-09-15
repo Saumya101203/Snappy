@@ -55,16 +55,15 @@ cd Files
    Before proceeding, in PowerShell, type:
    ```bash
    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
-Then, run the following commands:
-bash
-```
-cd server
-yarn
-cd ..
-cd public
-yarn
-npm install @chatscope/chat-ui-kit-react
-cd ..
+  Then, run the following commands:
+   ```bash
+       cd server
+       yarn
+       cd ..
+       cd public
+       yarn
+       npm install @chatscope/chat-ui-kit-react
+       cd ..
 ```
 4. *Start the development servers:*
 
