@@ -35,16 +35,7 @@ https://www.mongodb.com/try/download/community
 git clone https://github.com/Saumya101203/ChatAppWithChatbot.git
 cd Files
 ```
-2. *Rename the environment files:*
-
-```bash
-cd public
-mv .env.example .env
-cd ..
-cd server
-mv .env.example .env
-```
-3. *Install the dependencies:*
+2. *Install the dependencies:*
 
 ```bash
 cd server
@@ -55,7 +46,7 @@ yarn
 npm install @chatscope/chat-ui-kit-react
 cd ..
 ```
-4. *Start the development servers:*
+3. *Start the development servers:*
 
 ```bash
 cd public
