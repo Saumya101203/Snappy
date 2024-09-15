@@ -49,7 +49,8 @@ cd ..
 cd public
 yarn
 npm install @chatscope/chat-ui-kit-react
-cd ..```
+cd ..
+```
 4. *Start the development servers:*
 
 ```bash
