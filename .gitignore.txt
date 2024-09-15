@@ -1,0 +1,16 @@
+# Ignore large files
+*.mp4
+*.zip
+*.tar.gz
+
+# Ignore node_modules
+node_modules/
+
+# Ignore images folder if needed
+Files/images/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
