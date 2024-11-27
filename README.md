@@ -82,3 +82,9 @@ _Done!_
 
 Your chat application is now running, and you can chat with other users, interact with the chatbot, and more.
 
+## Glimpses of ChatApp
+
+![Login Page](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Login%20Page.png)
+
+
+
