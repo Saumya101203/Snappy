@@ -83,8 +83,20 @@ _Done!_
 Your chat application is now running, and you can chat with other users, interact with the chatbot, and more.
 
 ## Glimpses of ChatApp
-
+### Login Page
 ![Login Page](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Login%20Page.png)
+
+### Registration Page
+![Registartion Page](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Registration%20Page.png)
+
+### Avatar Setup After Registration
+![Avatar Setup](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Avatar%20Setup.png)
+
+### Chatting Interface
+![Chatting Interface](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Chatting%20Interface.png)
+
+### Chatbot Interface and Working
+![Chatbot Interface](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Chatbot%20Interface%20and%20Working.png)
 
 
 
