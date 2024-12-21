@@ -1,20 +1,4 @@
-# Chat App - React & Node.js
-## Developed By:- ##
-**Name**  
-Saumya Pratap Singh
-
-**College**  
-IIT Patna
-
-**Department**  
-Computer Science & Engineering
-
-**Branch**  
-Artificial Intelligence & Data Science
-
-**Roll No.**  
-2201AI35
-
+# Chat App - MERN Stack
 ## Description
 
 A real-time messaging application built using React for the frontend and Node.js for the backend. This app allows users to engage in one-to-one real-time chat, interact with an AI-powered chatbot, and enjoy a personalized experience with user profile avatars and emoji support.
