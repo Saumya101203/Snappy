@@ -67,6 +67,11 @@ _Done!_
 Your chat application is now running, and you can chat with other users, interact with the chatbot, and more.
 
 ## Glimpses of ChatApp
+
+### Demo
+[![ChatApp Demo](https://img.youtube.com/vi/liR3IWx7x94/0.jpg)](https://youtu.be/liR3IWx7x94?si=y5GBD1Tk_CY_svLc)
+
+
 ### Login Page
 ![Login Page](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Login%20Page.png)
 
@@ -82,7 +87,5 @@ Your chat application is now running, and you can chat with other users, interac
 ### Chatbot Interface and Working
 ![Chatbot Interface](https://github.com/Saumya101203/ChatAppWithChatBot/blob/master/Pictures/Chatbot%20Interface%20and%20Working.png)
 
-### Demo
-[![ChatApp Demo](https://youtu.be/liR3IWx7x94?si=ieMBD8Q4nqGTJT--/0.jpg)]([https://youtu.be/your-video-id](https://youtu.be/liR3IWx7x94?si=ieMBD8Q4nqGTJT--))
 
 
