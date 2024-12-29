@@ -66,10 +66,10 @@ _Done!_
 
 Your chat application is now running, and you can chat with other users, interact with the chatbot, and more.
 
-## Glimpses of ChatApp
-
-### Demo
+## Demo Video 
 [![ChatApp Demo](https://img.youtube.com/vi/liR3IWx7x94/0.jpg)](https://youtu.be/liR3IWx7x94?si=y5GBD1Tk_CY_svLc)
+
+## Glimpses of ChatApp
 
 
 ### Login Page
