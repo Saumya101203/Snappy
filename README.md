@@ -1,4 +1,4 @@
-# Chat App - MERN Stack
+# Snappy - Real time Chatapp with AI powered Chatbot (using MERN Stack)
 ## Description
 
 A real-time messaging application built using React for the frontend and Node.js for the backend. This app allows users to engage in one-to-one real-time chat, interact with an AI-powered chatbot, and enjoy a personalized experience with user profile avatars and emoji support.
